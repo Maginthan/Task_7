@@ -32,3 +32,12 @@ public class Q1Task8 {
 	}
 
 }
+
+/*OUTPUT
+Enter the value of a: 4
+Enter the value of b: 5
+Enter the value of c: 1
+Enter the value of d: 3
+
+The sum of a and b is greater than c and d
+*/

@@ -25,3 +25,9 @@ public class Q2Task8 {
 
 	}
 }
+
+
+/*OUTPUT
+Enter a number to check whether it is even number or not: 9
+The entered number 9 is not an even number
+ */

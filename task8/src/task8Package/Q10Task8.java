@@ -20,3 +20,10 @@ public class Q10Task8 {
 	}
 
 }
+
+/*OUTPUT
+Enter a number:
+12789
+
+The entered number 12789 has count: 5
+*/

@@ -20,8 +20,8 @@ public class Q4Task8 {
 		int b = sc.nextInt();
 		System.out.println();
 
-		System.out.println("The value of a is " + a);
-		System.out.println("The value of b is " + b);
+		System.out.println("The value of A is " + a);
+		System.out.println("The value of B is " + b);
 		System.out.println("*******************************");
 		System.out.println();
 
@@ -33,9 +33,20 @@ public class Q4Task8 {
 		b = a;
 		a = c;
 
-		System.out.println("The value of a is now " + a);
-		System.out.println("The value of b is now " + b);
+		System.out.println("The value of A is now " + a);
+		System.out.println("The value of B is now " + b);
 
 	}
 
 }
+
+/*OUTPUT
+ Enter the value of A: 5
+ Enter the value of B: 3
+ 
+ The value of A is 5
+ The value of B is 3
+ **************************
+ The value of A is now 3
+ The value of B is now 5
+ */

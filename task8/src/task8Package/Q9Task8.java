@@ -25,3 +25,8 @@ public class Q9Task8 {
 	}
 
 }
+
+/*OUTPUT
+Enter your age: 60
+As per your age 60 .You are a Senior citizen
+*/

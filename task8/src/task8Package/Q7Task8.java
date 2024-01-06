@@ -19,3 +19,10 @@ public class Q7Task8 {
 	}
 
 }
+
+/*OUTPUT
+Enter a string:
+Hello world
+
+The length of the entered string is: 11
+*/

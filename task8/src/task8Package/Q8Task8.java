@@ -22,3 +22,19 @@ public class Q8Task8 {
 	}
 
 }
+
+/*OUTPUT
+Enter the times you want to print *Welcome to Guvi* : 
+10
+
+Welcome to Guvi
+Welcome to Guvi
+Welcome to Guvi
+Welcome to Guvi
+Welcome to Guvi
+Welcome to Guvi
+Welcome to Guvi
+Welcome to Guvi
+Welcome to Guvi
+Welcome to Guvi
+*/

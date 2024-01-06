@@ -32,3 +32,9 @@ public class Q5Task8 {
 	}
 
 }
+
+/*OUTPUT
+Enter a number: 3
+
+The entered number 3 is a prime number
+*/

@@ -24,3 +24,10 @@ public class Q6Task8 {
 	}
 
 }
+
+/*OUTPUT
+Enter a number you wish to find the factorial: 
+5
+
+The factorial for entered number 5 is 120
+ */
